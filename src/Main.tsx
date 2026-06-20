@@ -11,9 +11,10 @@ export function Main() {
     <div>
       <p>Steps to reproduce:</p>
       <ol>
-        <li>1. Enter a long name</li>
-        <li>2. Untick visibility checkbox</li>
-        <li>3. Retick visibility checkbox</li>
+        <li>Enter a long name</li>
+        <li>Untick visibility checkbox</li>
+        <li>Clear the input field</li>
+        <li>Retick visibility checkbox</li>
       </ol>
       <p>The component will show the long name for a moment and hide</p>
       <p>
